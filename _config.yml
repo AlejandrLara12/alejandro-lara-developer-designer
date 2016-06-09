@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /alejandro-lara-developer-designer
+exclude: ['README.md']
