@@ -8,3 +8,19 @@ html{
   background-color: darkred;
   color: #fff;
 }
+
+.nav {
+  margin: 0;
+  padding: 0;
+}
+.nav > li{
+  display: inline-block;
+}
+
+.nav-top {
+  font-size: 1.2em;
+}
+
+.nav-bottom {
+
+}
